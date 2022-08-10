@@ -4,7 +4,5 @@ function matchPassword() {
     if(pw1 != pw2)  
     {   
       alert("contraseñas no coinceden");  
-    } else {  
-      alert("Password created successfully");  
-    }  
+    } 
   }  
